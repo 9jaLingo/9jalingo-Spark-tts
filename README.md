@@ -293,9 +293,9 @@ The architecture, training framework, and BiCodec tokenizer design are all from 
 
 This model is one piece of that mission: giving African languages a voice in AI.
 
-- Platform: [9jalingo.com](https://9jalingo.com)
-- HuggingFace: [huggingface.co/NaijaLingo](https://huggingface.co/NaijaLingo)
-- GitHub: [github.com/NaijaLingo](https://github.com/NaijaLingo)
+- Platform: [9jalingo.org](https://9jalingo.org)
+- HuggingFace: [huggingface.co/9jalingo](https://huggingface.co/9jalingo)
+- GitHub: [github.com/9jalingo](https://github.com/9jalingo)
 
 ---
 
