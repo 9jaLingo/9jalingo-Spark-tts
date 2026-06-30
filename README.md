@@ -96,7 +96,7 @@ The LLM generates `bicodec_semantic_N` tokens, which are then fed to the BiCodec
 The model weights are hosted on HuggingFace:
 
 ```
-NaijaLingo/9jaLingo-TTS-African-ckpt-25k
+9jaLingo/9jaLingo-TTS-African-ckpt-25k
 ```
 
 Directory structure in the HuggingFace repo:
@@ -161,7 +161,7 @@ pip install protobuf==3.20.3 safetensors accelerate sentencepiece
 from huggingface_hub import snapshot_download
 
 snapshot_download(
-    repo_id="NaijaLingo/9jaLingo-TTS-African-ckpt-25k",
+    repo_id="9jaLingo/9jaLingo-TTS-African-ckpt-25k",
     local_dir="./Spark-TTS-African",
     local_dir_use_symlinks=False
 )
@@ -316,7 +316,7 @@ If you use this model in your research or products, please cite both the origina
   author={Chukwuemeka Okolie},
   year={2025},
   publisher={9jaLingo},
-  howpublished={\url{https://github.com/NaijaLingo/9jalingo-Spark-tts}}
+  howpublished={\url{https://github.com/9jaLingo/9jalingo-Spark-tts}}
 }
 ```
 
