@@ -1,6 +1,6 @@
-# 9jaLingo TTS — African Speech Synthesis
+# 9jaLingo Spark TTS — African Speech Synthesis
 
-**9jaLingo TTS** is a multilingual Text-to-Speech system trained from scratch for Nigerian and African languages. It supports **Hausa, Igbo, Yoruba, and Nigerian Pidgin**, with built-in **voice cloning** capability. The model was built by training the full Spark-TTS architecture on African language data using an NVIDIA A100 80GB GPU over 6 days.
+**9jaLingo Spark TTS** is a multilingual Text-to-Speech system trained from scratch for Nigerian and African languages. It supports **Hausa, Igbo, Yoruba, and Nigerian Pidgin**, with built-in **voice cloning** capability. The model was built by training the full Spark-TTS architecture on African language data using an NVIDIA A100 80GB GPU over 6 days.
 
 > **Built on Spark-TTS** — This model is trained from scratch using the architecture from [Spark-TTS (arXiv:2503.01710)](https://arxiv.org/abs/2503.01710) by SparkAudio. Full credit and citation below. See their repo: [github.com/sparkaudio/spark-tts](https://github.com/sparkaudio/spark-tts)
 
@@ -24,7 +24,7 @@
 
 ## How It Works — Architecture
 
-9jaLingo TTS is based on the **Spark-TTS** architecture ([paper: arXiv 2503.01710](https://arxiv.org/abs/2503.01710)), which uses a two-stage pipeline to convert text into speech:
+9jaLingo Spark TTS is based on the **Spark-TTS** architecture ([paper: arXiv 2503.01710](https://arxiv.org/abs/2503.01710)), which uses a two-stage pipeline to convert text into speech:
 
 ### Stage 1 — BiCodec Audio Tokenizer (4 days of training)
 
@@ -312,7 +312,7 @@ If you use this model in your research or products, please cite both the origina
 }
 
 @misc{9jalingo_tts_2025,
-  title={9jaLingo TTS — African Speech Synthesis},
+  title={9jaLingo Spark TTS — African Speech Synthesis},
   author={Chukwuemeka Okolie},
   year={2025},
   publisher={9jaLingo},
