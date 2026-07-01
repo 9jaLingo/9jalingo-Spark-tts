@@ -311,7 +311,7 @@ If you use this model in your research or products, please cite both the origina
 
 @misc{9jalingo_tts_2025,
   title={9jaLingo Spark TTS — African Speech Synthesis},
-  author={Chukwuemeka Okolie},
+  author={Chukwuka Okolie},
   year={2025},
   publisher={9jaLingo},
   howpublished={\url{https://github.com/9jaLingo/9jalingo-Spark-tts}}
