@@ -6,8 +6,6 @@
 
 > **License** — MIT with attribution. Free to use, modify, and distribute for any purpose. You must give credit to 9jaLingo and to the Spark-TTS authors. See [LICENSE](./LICENSE).
 
-> This is a community release. If you use this model, please consider contributing data, fine-tunes, or improvements back to the African AI community.
-
 ---
 
 ## Supported Languages
